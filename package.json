@@ -1,0 +1,13 @@
+{
+  "name": "basscss-utilities",
+  "version": "0.0.1",
+  "description": "Basic CSS utilities for BASSCSS",
+  "keywords": [
+    "CSS",
+    "OOCSS",
+    "BASSCSS",
+    "Rework"
+  ],
+  "author": "Brent Jackson",
+  "license": "MIT"
+}
