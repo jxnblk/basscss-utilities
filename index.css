@@ -78,6 +78,14 @@
 .ml4 { margin-left:   var(--space-4) }
 
 
+/* Negative x-axis margins */
+
+.mxn1 { margin-left: -var(--space-1); margin-right: -var(--space-1); }
+.mxn2 { margin-left: -var(--space-2); margin-right: -var(--space-2); }
+.mxn3 { margin-left: -var(--space-3); margin-right: -var(--space-3); }
+.mxn4 { margin-left: -var(--space-4); margin-right: -var(--space-4); }
+
+
 /* Padding */
 
 .p1  { padding:       var(--space-1) }
