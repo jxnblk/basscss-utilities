@@ -1,4 +1,3 @@
-/* Margins */
 
 .m0  { margin:        0 }
 .mt0 { margin-top:    0 }
@@ -30,10 +29,10 @@
 .mb4 { margin-bottom: var(--space-4) }
 .ml4 { margin-left:   var(--space-4) }
 
-/* Negative x-axis margins */
-
 .mxn1 { margin-left: -var(--space-1); margin-right: -var(--space-1); }
 .mxn2 { margin-left: -var(--space-2); margin-right: -var(--space-2); }
 .mxn3 { margin-left: -var(--space-3); margin-right: -var(--space-3); }
 .mxn4 { margin-left: -var(--space-4); margin-right: -var(--space-4); }
+
+.mx-auto { margin-left: auto; margin-right: auto; }
 
