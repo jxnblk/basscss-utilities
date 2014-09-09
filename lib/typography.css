@@ -1,0 +1,16 @@
+
+/* Typography */
+
+.bold    { font-weight: bold }
+.regular { font-weight: normal }
+.medium  { font-weight: 500 }
+.italic  { font-style: italic }
+.caps    { text-transform: uppercase; letter-spacing: .2em; }
+
+.left-align   { text-align: left }
+.center       { text-align: center }
+.right-align  { text-align: right }
+.justified    { text-align: justify }
+
+.nowrap { white-space: nowrap }
+

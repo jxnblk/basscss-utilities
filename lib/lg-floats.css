@@ -1,0 +1,5 @@
+@media (--breakpoint-lg) {
+  .lg-left  { float: left  }
+  .lg-right { float: right }
+}
+
