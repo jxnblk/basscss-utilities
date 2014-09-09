@@ -2,6 +2,10 @@
   "name": "basscss-utilities",
   "version": "0.0.1",
   "description": "Basic CSS utilities for BASSCSS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jxnblk/basscss-utilities.git"
+  },
   "keywords": [
     "CSS",
     "OOCSS",
