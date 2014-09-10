@@ -1,6 +1,4 @@
-/*
-    BASSCSS Utilities
- */
+/* BASSCSS Utilities */
 
 :root {
   --space-1: .5em;
@@ -8,7 +6,6 @@
   --space-3: 2em;
   --space-4: 4em;
 }
-
 
 @import "./lib/layout.css";
 @import "./lib/floats.css";
