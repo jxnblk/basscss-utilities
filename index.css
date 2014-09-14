@@ -1,10 +1,10 @@
 /* BASSCSS Utilities */
 
 :root {
-  --space-1: .5em;
-  --space-2: 1em;
-  --space-3: 2em;
-  --space-4: 4em;
+  --space-1: .5rem;
+  --space-2: 1rem;
+  --space-3: 2rem;
+  --space-4: 4rem;
 }
 
 @custom-media --breakpoint-sm (min-width: 40em);
