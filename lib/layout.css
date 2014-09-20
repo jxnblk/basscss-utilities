@@ -12,6 +12,9 @@
 }
 .clearfix:after { clear: both }
 
+.left  { float: left }
+.right { float: right }
+
 .fit { max-width: 100% }
 
 .half-width { width: 50% }

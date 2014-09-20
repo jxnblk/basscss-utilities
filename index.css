@@ -8,10 +8,6 @@
 }
 
 @import "./lib/layout.css";
-@import "./lib/floats.css";
-@import "./lib/sm-floats.css";
-@import "./lib/md-floats.css";
-@import "./lib/lg-floats.css";
 @import "./lib/typography.css";
 @import "./lib/margins.css";
 @import "./lib/padding.css";
