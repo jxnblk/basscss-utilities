@@ -7,10 +7,6 @@
   --space-4: 4rem;
 }
 
-@custom-media --breakpoint-sm (min-width: 40em);
-@custom-media --breakpoint-md (min-width: 52em);
-@custom-media --breakpoint-lg (min-width: 64em);
-
 @import "./lib/layout.css";
 @import "./lib/floats.css";
 @import "./lib/sm-floats.css";

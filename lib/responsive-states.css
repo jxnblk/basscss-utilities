@@ -1,8 +1,6 @@
 
 /* Mobile-first breakpoint show/hide */
 
-/* Potentially more confusing than scoped utilities */
-
 .sm-show, .md-show, .lg-show {
   display: none !important
 }
