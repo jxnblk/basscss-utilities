@@ -1,7 +1,6 @@
 
-.bold    { font-weight: bold }
+.bold    { font-weight: var(--bold-font-weight) }
 .regular { font-weight: normal }
-.medium  { font-weight: 500 }
 .italic  { font-style: italic }
 .caps    { text-transform: uppercase; letter-spacing: .2em; }
 
