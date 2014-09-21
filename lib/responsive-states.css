@@ -1,6 +1,4 @@
 
-/* Mobile-first breakpoint show/hide */
-
 .sm-show, .md-show, .lg-show {
   display: none !important
 }

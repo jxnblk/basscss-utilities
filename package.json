@@ -1,7 +1,7 @@
 {
   "name": "basscss-utilities",
-  "version": "0.0.12",
-  "description": "Basic CSS utilities for BASSCSS",
+  "version": "0.0.13",
+  "description": "Basic CSS utilities for Basscss",
   "repository": {
     "type": "git",
     "url": "https://github.com/jxnblk/basscss-utilities.git"
