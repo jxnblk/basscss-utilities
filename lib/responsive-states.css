@@ -1,10 +1,10 @@
 
-.xs-hide, .sm-show, .md-show, .lg-show {
+.sm-show, .md-show, .lg-show {
   display: none !important
 }
 
 @media (--breakpoint-sm) {
-  .xs-hide, .sm-show { display: block !important }
+  .sm-show { display: block !important }
 }
 
 @media (--breakpoint-md) {
