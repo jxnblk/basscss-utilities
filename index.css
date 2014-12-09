@@ -14,10 +14,10 @@
   --bold-font-weight: bold;
 }
 
-@import "./lib/layout.css";
-@import "./lib/typography.css";
-@import "./lib/margins.css";
-@import "./lib/padding.css";
-@import "./lib/responsive-states.css";
+@import "./lib/layout";
+@import "./lib/typography";
+@import "./lib/margins";
+@import "./lib/padding";
+@import "./lib/responsive-states";
 
 
