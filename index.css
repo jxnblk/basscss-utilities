@@ -1,6 +1,9 @@
-/*
-    Basscss Utilities
-*/
+/* Basscss Utilities */
+
+@import "basscss-utility-layout";
+@import "basscss-utility-typography";
+@import "basscss-utility-white-space";
+@import "basscss-utility-responsive-states";
 
 @custom-media --breakpoint-sm (min-width: 40em);
 @custom-media --breakpoint-md (min-width: 52em);
@@ -13,11 +16,5 @@
   --space-4: 4rem;
   --bold-font-weight: bold;
 }
-
-@import "./lib/layout";
-@import "./lib/typography";
-@import "./lib/margins";
-@import "./lib/padding";
-@import "./lib/responsive-states";
 
 
